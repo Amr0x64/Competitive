@@ -1,1 +1,1 @@
-# GlobaxApp
+# Competitive Programmers
